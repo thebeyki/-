@@ -1,0 +1,6 @@
+{
+  "name": "حسابدار",
+  "description": "مدیریت جامع درآمد، هزینه‌ها، بودجه‌بندی هوشمند، نمودارهای ماهانه، خروجی اکسل و قفل اثر انگشت با ذخیره‌سازی آفلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
